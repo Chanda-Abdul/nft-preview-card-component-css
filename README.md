@@ -37,8 +37,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/Chanda-Abdul/nft-preview-card-component-css)
+- Live Site URL: [here](https://shimmering-narwhal-c030b6.netlify.app/)
 ## My process
 
 ### Built with
